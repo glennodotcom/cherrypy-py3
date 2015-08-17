@@ -1,3 +1,4 @@
+'This is not awesome code'
 import os
 import sys
 import cherrypy
